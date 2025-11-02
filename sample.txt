@@ -1,0 +1,4 @@
+Salesforce is a CRM platform.
+MCP Server helps automate keyword searches.
+This assignment belongs to Satyam Kumar.
+We are learning how to integrate tools.
